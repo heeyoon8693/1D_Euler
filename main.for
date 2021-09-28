@@ -4,7 +4,6 @@
 ! 				computer spec : windows7, 32bit 
 !   				 TVD-MUSCL(3rd) with AUSM	
 !					made by Hee Yoon(Republic of Korea) 
-!						University of Tokyo
 ! 					recent update : 2021.09.13
 ! =====================================================================
 ! 						declare program 
